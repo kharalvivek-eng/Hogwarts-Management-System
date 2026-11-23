@@ -22,29 +22,6 @@ This project allows users to register Hogwarts students, view student records, a
 - Object attributes
 - `enumerate()`
 
-## 🛠️ Technologies
-
-- Python 3
-
-## ▶️ How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd hogwarts-management-system
-   ```
-
-3. Run the application:
-
-   ```bash
-   python main.py
-   ```
 
 ## 🎯 Purpose
 
